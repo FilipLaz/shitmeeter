@@ -1,12 +1,12 @@
 {
   "name": "shitmeeter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "author": "Filip Lazarevic",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/FilipLaz/shitmeeter"
+    "type": "git",
+    "url": "https://github.com/FilipLaz/shitmeeter"
   },
   "bin": {
     "shitmeeter": "shitmeeter.js"
