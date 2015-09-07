@@ -1,0 +1,14 @@
+{
+  "name": "shitmeeter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Filip Lazarevic",
+  "license": "ISC",
+  "bin": {
+    "shitmeeter": "shitmeeter.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.61.0"
+  }
+}
