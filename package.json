@@ -4,6 +4,10 @@
   "description": "",
   "author": "Filip Lazarevic",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/FilipLaz/shitmeeter"
+  },
   "bin": {
     "shitmeeter": "shitmeeter.js"
   },
